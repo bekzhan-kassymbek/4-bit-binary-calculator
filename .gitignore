@@ -1,0 +1,14 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# LTspice generated files
+*.raw
+*.log
+*.net
+*.op.raw
+
+# Build/output
+build/
+bin/
